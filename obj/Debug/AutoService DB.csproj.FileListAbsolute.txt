@@ -1,0 +1,12 @@
+C:\Users\dave\Desktop\AutoService_Reverse\AutoService DB\obj\Debug\AutoService DB.csprojResolveAssemblyReference.cache
+C:\Users\dave\Desktop\AutoService_Reverse\AutoService DB\obj\Debug\AutoService_DB.AddMasina.resources
+C:\Users\dave\Desktop\AutoService_Reverse\AutoService DB\obj\Debug\AutoService_DB.Form1.resources
+C:\Users\dave\Desktop\AutoService_Reverse\AutoService DB\obj\Debug\AutoService_DB.Form2.resources
+C:\Users\dave\Desktop\AutoService_Reverse\AutoService DB\obj\Debug\AutoService_DB.Properties.Resources.resources
+C:\Users\dave\Desktop\AutoService_Reverse\AutoService DB\obj\Debug\AutoService DB.csproj.GenerateResource.Cache
+C:\Users\dave\Desktop\AutoService_Reverse\AutoService DB\bin\Debug\AutoService DB.exe.config
+C:\Users\dave\Desktop\AutoService_Reverse\AutoService DB\bin\Debug\MySql.Data.dll
+C:\Users\dave\Desktop\AutoService_Reverse\AutoService DB\bin\Debug\AutoService DB.exe
+C:\Users\dave\Desktop\AutoService_Reverse\AutoService DB\bin\Debug\AutoService DB.pdb
+C:\Users\dave\Desktop\AutoService_Reverse\AutoService DB\obj\Debug\AutoService DB.exe
+C:\Users\dave\Desktop\AutoService_Reverse\AutoService DB\obj\Debug\AutoService DB.pdb
